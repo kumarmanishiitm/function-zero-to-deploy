@@ -1,6 +1,3 @@
-# function-zero-to-deploy
-
-
 NORTH (Back Side)
   ┌────────────────────────────────────────────┐
   │  Bedroom 3    │   Study Room   │ Bedroom 4 │
